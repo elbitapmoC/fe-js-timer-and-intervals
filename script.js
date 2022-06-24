@@ -26,3 +26,5 @@ function stopTimer(){
   // clearInterval(animationFrameID);
   cancelAnimationFrame(animationFrameID);
 }
+
+// DATES
